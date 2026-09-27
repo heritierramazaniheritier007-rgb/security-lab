@@ -1,0 +1,12 @@
+
+ipconfig
+systeminfo
+ping 8.8.8.8 -t
+exit
+tasklist : 26-09-2026 a 12:52:14
+msinfo32 : 26-09-2026 a 12:52:46
+nslookup : 26-09-2026 a 12:53:06
+route print : 26-09-2026 a 12:53:16
+tree : 26-09-2026 a 12:53:55
+dir : 26-09-2026 a 12:54:00
+mkdir directory : 26-09-2026 a 12:54:26
